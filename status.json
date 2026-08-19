@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-08-18T07:01:25.571Z",
+  "checked_at": "2026-08-19T07:03:03.469Z",
   "source_url": "https://www.belastingdienst.nl/common/js/iah/betalingskenmerk.js",
   "verified_on": "2026-07-20",
-  "state": "unknown",
-  "note": "Kon de officiële bron niet bereiken: fetch failed"
+  "state": "ok",
+  "note": "Komt overeen met de officiële bron."
 }
